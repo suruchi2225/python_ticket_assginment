@@ -1,0 +1,9 @@
+The main_app.py consists the main application for fetching the information about user.
+Config.txt is used to fetch the ticket printing options whether txt/pdf or so on we can increase the options without modifying the main code.
+print_module contains the code to convert the ticket
+print_module is a package where we can add the code of new format.
+
+Environment Requirement:
+1. python
+2. run the code using cmd keeping them in same folder.
+3. tickets will also get generated in the form of text or pdf file in the same. 
